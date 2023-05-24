@@ -22,7 +22,7 @@ Diploma in Business and Information Management
 
 National ITE Certificate in Electronics - (Wireless LAN)
 
-.. pdf:: https://github.com/wayneyong/CV-Resume/blob/9c497669e2309160fa2bed54b92567f5d888edee/NITEC%20-%20ELECWL.pdf
+.. pdf:: https://github.com/wayneyong/CV-Resume/blob/4df80b5eac7d42473e0b9113d8718834cee58268/NITEC%20-%20ELECWL.pdf
 
 # PROFESSIONAL CERTIFICATIONS
 
