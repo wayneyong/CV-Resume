@@ -14,7 +14,7 @@ Postgraduate Diploma in Business Analytics
 
 Advanced Diploma in Data Analytics and Machine Learning
 
-.. pdf:: https://github.com/wayneyong/CV-Resume/blob/75d597e9ff11219261f652cbf32ac660bdf644bc/SMUA%20-%20ADDAML.pdf
+.. pdf:: https://github.com/wayneyong/CV-Resume/blob/4df80b5eac7d42473e0b9113d8718834cee58268/SMUA%20-%20ADDAML.pdf
 
 Diploma in Business and Information Management 
 
