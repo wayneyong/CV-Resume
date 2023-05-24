@@ -18,7 +18,7 @@ Advanced Diploma in Data Analytics and Machine Learning
 
 Diploma in Business and Information Management 
 
-.. pdf:: https://github.com/wayneyong/CV-Resume/blob/6b777fda364388a8538adbe62ff4d255722388d7/KAPLAN%20-%20DIPBIM.pdf
+.. pdf:: https://github.com/wayneyong/CV-Resume/blob/4df80b5eac7d42473e0b9113d8718834cee58268/KAPLAN%20-%20DIPBIM.pdf
 
 National ITE Certificate in Electronics - (Wireless LAN)
 
