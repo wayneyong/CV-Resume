@@ -1,8 +1,8 @@
 # Wayne Yong - Resume/CV
 
-Updated on 23 May 2023
+.. pdf:: https://github.com/wayneyong/CV-Resume/blob/b17f6fad58d1299518ca71ef20013f17de24230a/23052023%20-%20Wayne%20Yong_Resume-CV.pdf
 
-.. pdf:: https://github.com/wayneyong/CV-Resume/blob/7427a2ce2eb89c87d856c916ff795d2bf2e4fbab/23052023%20-%20Wayne%20Yong_Resume-CV.pdf
+Updated on 23 May 2023
 
 # Wayne Yong - Credentials 
 
