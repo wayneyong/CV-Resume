@@ -20,11 +20,7 @@ https://github.com/wayneyong/CV-Resume/blob/4df80b5eac7d42473e0b9113d8718834cee5
 
 Certificate in Information Technology Risk, Governance and Security
 
-https://github.com/wayneyong/CV-Resume/blob/4df80b5eac7d42473e0b9113d8718834cee58268/NITEC%20-%20ELECWL.pdf
-
 Professional Certificate in Digital Marketing
-
-https://github.com/wayneyong/CV-Resume/blob/4df80b5eac7d42473e0b9113d8718834cee58268/NITEC%20-%20ELECWL.pdf
 
 # Kaplan Higher Education Institute
 
@@ -37,13 +33,9 @@ https://github.com/wayneyong/CV-Resume/blob/4df80b5eac7d42473e0b9113d8718834cee5
 
 Professional Certificate in Accounting and Finance
 
-https://github.com/wayneyong/CV-Resume/blob/4df80b5eac7d42473e0b9113d8718834cee58268/NITEC%20-%20ELECWL.pdf
-
 # NUS Institute of Systems Science
 
-ITIL v3 Foundation in IT Service Management 
-
-https://github.com/wayneyong/CV-Resume/blob/4df80b5eac7d42473e0b9113d8718834cee58268/NITEC%20-%20ELECWL.pdf
+ITIL v3 Foundation in IT Service Management
 
 # Institute of Technical Education
 
@@ -54,8 +46,6 @@ https://github.com/wayneyong/CV-Resume/blob/4df80b5eac7d42473e0b9113d8718834cee5
 # Metropolitan School of Business and Management, UK
 
 Professional Certificate in Management Information Systems
-
-https://github.com/wayneyong/CV-Resume/blob/4df80b5eac7d42473e0b9113d8718834cee58268/NITEC%20-%20ELECWL.pdf
 
 # Microsoft
 
