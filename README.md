@@ -79,6 +79,8 @@ Google Analytics Individual Qualification
 
 CompTIA IT Fundamentals
 
+https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/COMPTIA%20-%20ITF.pdf
+
 # SkillsFuture SG
 
 Workplace Literacy and Numeracy (WPLN) Level 5 and above
