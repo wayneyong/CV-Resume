@@ -24,6 +24,8 @@ https://github.com/wayneyong/CV-Resume/blob/9a46cc155d3c13f5a122639c1824e0fd05af
 
 Professional Certificate in Digital Marketing
 
+https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/SMUA%20-%20PCDM.pdf
+
 # Kaplan Higher Education Institute
 
 Diploma in Business and Information Management
@@ -35,9 +37,13 @@ https://github.com/wayneyong/CV-Resume/blob/4df80b5eac7d42473e0b9113d8718834cee5
 
 Professional Certificate in Accounting and Finance
 
+https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/NUSBIZ%20-%20PCAF.pdf
+
 # NUS Institute of Systems Science
 
 ITIL v3 Foundation in IT Service Management
+
+https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/NUSISS%20-%20ITIL-V3.pdf
 
 # Institute of Technical Education
 
@@ -48,6 +54,8 @@ https://github.com/wayneyong/CV-Resume/blob/4df80b5eac7d42473e0b9113d8718834cee5
 # Metropolitan School of Business and Management, UK
 
 Professional Certificate in Management Information Systems
+
+https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/MSBM%20-%20PCMIS.pdf
 
 # Microsoft
 
@@ -65,15 +73,27 @@ MD-101: Configure user and device profiles
 
 Microsoft Technology Associate: Networking Fundamentals (MTA)
 
+https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/MS%20-%2070-741.pdf
+
+https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/MS%20-%20MTA%20(NETWORKING).pdf
+
+https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/MS%20-%20AZ-800%20MD-100%20MD-101.pdf
+
 # The Linux Foundation
 
 LFS216: Linux Security Fundamentals
+
+https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/LF%20-%20LSF216.pdf
 
 # Google
 
 Google Ads Search Certification
 
 Google Analytics Individual Qualification
+
+https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/GOOGLE%20-%20GASC.pdf
+
+https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/GOOGLE%20-%20GAIQ.pdf
 
 # CompTIA
 
