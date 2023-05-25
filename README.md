@@ -45,12 +45,6 @@ ITIL v3 Foundation in IT Service Management
 
 https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/NUSISS%20-%20ITIL-V3.pdf
 
-# Institute of Technical Education
-
-National ITE Certificate in Electronics - (Wireless LAN)
-
-https://github.com/wayneyong/CV-Resume/blob/4df80b5eac7d42473e0b9113d8718834cee58268/NITEC%20-%20ELECWL.pdf
-
 # Metropolitan School of Business and Management, UK
 
 Professional Certificate in Management Information Systems
@@ -101,6 +95,12 @@ CompTIA IT Fundamentals
 
 https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/COMPTIA%20-%20ITF.pdf
 
+# Institute of Technical Education
+
+National ITE Certificate in Electronics - (Wireless LAN)
+
+https://github.com/wayneyong/CV-Resume/blob/4df80b5eac7d42473e0b9113d8718834cee58268/NITEC%20-%20ELECWL.pdf
+
 # SkillsFuture SG
 
 Workplace Literacy and Numeracy (WPLN) Level 5 and above
@@ -110,3 +110,4 @@ https://github.com/wayneyong/CV-Resume/blob/e00c2d6b24de6b700afc264aad72df6ec3d4
 # Singapore-Cambridge General Certificate of Education Normal Level
 
 https://github.com/wayneyong/CV-Resume/blob/e00c2d6b24de6b700afc264aad72df6ec3d424b5/SC%20GCE-N.pdf
+
