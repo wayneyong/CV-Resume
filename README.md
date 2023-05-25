@@ -84,3 +84,6 @@ https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fd
 # SkillsFuture SG
 
 Workplace Literacy and Numeracy (WPLN) Level 5 and above
+
+# Singapore-Cambridge General Certificate of Education Normal Level
+
