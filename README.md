@@ -53,25 +53,25 @@ https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fd
 
 # Microsoft
 
-Windows Server 2019: Windows Server Network Infrastructure
+1. Windows Server 2019: Windows Server Network Infrastructure
 
-AZ-800: Implement and operate an on-premises and hybrid networking infrastructure
+2. AZ-800: Implement and operate an on-premises and hybrid networking infrastructure
 
-MD-100: Configure networking on Windows clients
+3. MD-100: Configure networking on Windows clients
 
-MD-100: Troubleshoot hardware and drivers
+4. MD-100: Troubleshoot hardware and drivers
 
-MD-101: Configure user and device profiles
+5. MD-101: Configure user and device profiles
+
+https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/MS%20-%20AZ-800%20MD-100%20MD-101.pdf
 
 70-741: Networking with Windows Server 2016
 
-Microsoft Technology Associate: Networking Fundamentals (MTA)
-
 https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/MS%20-%2070-741.pdf
 
-https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/MS%20-%20MTA%20(NETWORKING).pdf
+Microsoft Technology Associate: Networking Fundamentals (MTA)
 
-https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/MS%20-%20AZ-800%20MD-100%20MD-101.pdf
+https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/MS%20-%20MTA%20(NETWORKING).pdf
 
 # The Linux Foundation
 
@@ -83,9 +83,9 @@ https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fd
 
 Google Ads Search Certification
 
-Google Analytics Individual Qualification
-
 https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/GOOGLE%20-%20GASC.pdf
+
+Google Analytics Individual Qualification
 
 https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/GOOGLE%20-%20GAIQ.pdf
 
@@ -110,4 +110,3 @@ https://github.com/wayneyong/CV-Resume/blob/e00c2d6b24de6b700afc264aad72df6ec3d4
 # Singapore-Cambridge General Certificate of Education Normal Level
 
 https://github.com/wayneyong/CV-Resume/blob/e00c2d6b24de6b700afc264aad72df6ec3d424b5/SC%20GCE-N.pdf
-
