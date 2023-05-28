@@ -2,7 +2,7 @@
 
 # RESUME / CV
 
-https://github.com/wayneyong/CV-Resume/blob/b17f6fad58d1299518ca71ef20013f17de24230a/23052023%20-%20Wayne%20Yong_Resume-CV.pdf
+https://github.com/wayneyong/CV-Resume/blob/96df978c164910c174a2e55928a9a6e326a10826/28052023%20-%20Wayne%20Yong_Resume-CV.pdf
 
 Updated on 23 May 2023
 
