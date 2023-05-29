@@ -53,21 +53,23 @@ https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fd
 
 # Microsoft
 
-1. Windows Server 2019: Windows Server Network Infrastructure
+Windows Server 2019: Windows Server Network Infrastructure
 
-2. AZ-800: Implement and operate an on-premises and hybrid networking infrastructure
+https://github.com/wayneyong/CV-Resume/blob/0276e2151c8fd68a0a30670d24b574bd5cfc1b13/WINSERVER-2019.pdf
+
+AZ-800: Implement and operate an on-premises and hybrid networking infrastructure
 
 https://github.com/wayneyong/CV-Resume/blob/0276e2151c8fd68a0a30670d24b574bd5cfc1b13/AZ-800.pdf
 
-3. MD-100: Configure networking on Windows clients
+MD-100: Configure networking on Windows clients
 
 https://github.com/wayneyong/CV-Resume/blob/0276e2151c8fd68a0a30670d24b574bd5cfc1b13/MD-100_2.pdf
 
-4. MD-100: Troubleshoot hardware and drivers
+MD-100: Troubleshoot hardware and drivers
 
 https://github.com/wayneyong/CV-Resume/blob/0276e2151c8fd68a0a30670d24b574bd5cfc1b13/MD-100_1.pdf
 
-5. MD-101: Configure user and device profiles
+MD-101: Configure user and device profiles
 
 https://github.com/wayneyong/CV-Resume/blob/0276e2151c8fd68a0a30670d24b574bd5cfc1b13/MD-101_1.pdf
 
