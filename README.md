@@ -6,7 +6,7 @@ https://github.com/wayneyong/CV-Resume/blob/96df978c164910c174a2e55928a9a6e326a1
 
 Updated on 23 May 2023
 
-# EDUCATION & PROFESSIONAL CERTIFICATIONS
+# 🎓 EDUCATION & PROFESSIONAL CERTIFICATIONS
 
 # Cambridge International Qualifications (CIQ), UK
 
