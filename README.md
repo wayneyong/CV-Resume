@@ -12,6 +12,8 @@ Updated on 23 May 2023
 
 # 💻 INFORMATION TECHNOLOGY
 
+![Information Technology Banner](https://github.com/wayneyong/CV-Resume/blob/a0c3ee02eccacd0e477dda3d1bdadddc4106ec65/IT-BANNER-IMAGE02.jpg)
+
 # 🖥 ⌨ 🖱️ SYSTEM ADMINISTRATION / COMPUTER NETWORKING / IT SUPPORT
 
 🏅 ITIL v3 Foundation in IT Service Management
