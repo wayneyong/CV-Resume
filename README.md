@@ -79,6 +79,8 @@ https://github.com/wayneyong/CV-Resume/blob/4df80b5eac7d42473e0b9113d8718834cee5
 # 💼 BUSINESS
 # INFORMATION SYSTEMS
 
+![Management Information Systems Banner](https://github.com/wayneyong/CV-Resume/blob/a9e77c71e3c1f66f5ee88dbe0d332e8d5090bd4a/BUSINESS-INFORMATION-SYSTEMS-BANNER.jpg)
+
 📓 Diploma in Business and Information Management
 
 https://github.com/wayneyong/CV-Resume/blob/4df80b5eac7d42473e0b9113d8718834cee58268/KAPLAN%20-%20DIPBIM.pdf
