@@ -8,7 +8,7 @@ Updated on 23 May 2023
 
 # 🎓 EDUCATION & PROFESSIONAL CERTIFICATIONS
 
-# 🖥️ INFORMATION TECHNOLOGY
+# 💻 INFORMATION TECHNOLOGY
 
 ![](https://github.com/wayneyong/CV-Resume/blob/6e867881936e4c635971b7aee970bb11c46af67f/Image001.jpg)
 
