@@ -1,4 +1,4 @@
-# WAYNE YONG
+# 🇼🇾 WAYNE YONG
 
 # 📝 RESUME / CV
 
