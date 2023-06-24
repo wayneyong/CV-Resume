@@ -68,7 +68,7 @@ https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fd
 
 # 📈 DATA ANALYTICS / MACHINE LEARNING 
 
-![Data Analytics Banner](https://github.com/wayneyong/CV-Resume/blob/74e926e904cbedae6a77f064396191eb7013f1e4/DATA-ANALYTICS-BANNER-IMAGE03.jpg)
+![Data Analytics Banner](https://github.com/wayneyong/CV-Resume/blob/f2bc8a7ba65e1a5cbcf7983ca6248fe92f2d4540/DATA-ANALYTICS-ML-%20BANNER%20IMAGE04.jpg)
 
 📓 Postgraduate Diploma in Business Analytics
 
@@ -90,6 +90,8 @@ https://github.com/wayneyong/CV-Resume/blob/4df80b5eac7d42473e0b9113d8718834cee5
 https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/MSBM%20-%20PCMIS.pdf
 
 # 📱📢 DIGITAL MARKETING / E-COMMERCE
+
+![Digital Marketing Banner](https://github.com/wayneyong/CV-Resume/blob/f2bc8a7ba65e1a5cbcf7983ca6248fe92f2d4540/DATA-ANALYTICS-ML-%20BANNER%20IMAGE04.jpg)
 
 🏅 Professional Certificate in Digital Marketing
 
