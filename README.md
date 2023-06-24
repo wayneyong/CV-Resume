@@ -1,4 +1,4 @@
-# 🇼🇾 WAYNE YONG
+# WAYNE YONG
 
 # 📝 RESUME / CV
 
@@ -69,7 +69,7 @@ https://github.com/wayneyong/CV-Resume/blob/9a46cc155d3c13f5a122639c1824e0fd05af
 https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/LF%20-%20LSF216.pdf
 
 # 💼 BUSINESS
-# 🇮🇸 INFORMATION SYSTEMS
+# INFORMATION SYSTEMS
 
 📓 Diploma in Business and Information Management
 
