@@ -16,7 +16,7 @@ Updated on 23 May 2023
 
 # SYSTEM ADMINISTRATION / COMPUTER NETWORKING / IT SUPPORT
 
-![IT Infrastructure Banner](https://github.com/wayneyong/CV-Resume/blob/e901d4ca13b453528c4ad04c170257f7c1a3c662/IT-INFRASTRUCTURE-BANNER.jpg)
+![IT Infrastructure Banner](https://github.com/wayneyong/CV-Resume/blob/39117242d3ef7d78c39af9897e38d47f1d3f346a/IT-INFRASTRUCTURE-BANNER.jpg)
 
 🏅 ITIL v3 Foundation in IT Service Management
 
