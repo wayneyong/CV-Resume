@@ -54,16 +54,6 @@ https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fd
 
 https://github.com/wayneyong/CV-Resume/blob/4df80b5eac7d42473e0b9113d8718834cee58268/NITEC%20-%20ELECWL.pdf
 
-# 📈 DATA ANALYTICS / MACHINE LEARNING 
-
-![Data Analytics Banner](https://github.com/wayneyong/CV-Resume/blob/74e926e904cbedae6a77f064396191eb7013f1e4/DATA-ANALYTICS-BANNER-IMAGE03.jpg)
-
-📓 Postgraduate Diploma in Business Analytics
-
-📓 Advanced Diploma in Data Analytics and Machine Learning
-
-https://github.com/wayneyong/CV-Resume/blob/4df80b5eac7d42473e0b9113d8718834cee58268/SMUA%20-%20ADDAML.pdf
-
 # 💻☠️ INFORMATION SECURITY / CYBERSECURITY
 
 ![Cybersecurity](https://github.com/wayneyong/CV-Resume/blob/2d86b342b185b1a25d670c7c2327e7ab48115b13/IT-SECURITY-IMAGE01.png)
@@ -75,6 +65,16 @@ https://github.com/wayneyong/CV-Resume/blob/9a46cc155d3c13f5a122639c1824e0fd05af
 🏅 LFS216: Linux Security Fundamentals
 
 https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/LF%20-%20LSF216.pdf
+
+# 📈 DATA ANALYTICS / MACHINE LEARNING 
+
+![Data Analytics Banner](https://github.com/wayneyong/CV-Resume/blob/74e926e904cbedae6a77f064396191eb7013f1e4/DATA-ANALYTICS-BANNER-IMAGE03.jpg)
+
+📓 Postgraduate Diploma in Business Analytics
+
+📓 Advanced Diploma in Data Analytics and Machine Learning
+
+https://github.com/wayneyong/CV-Resume/blob/4df80b5eac7d42473e0b9113d8718834cee58268/SMUA%20-%20ADDAML.pdf
 
 # 💼 BUSINESS
 # INFORMATION SYSTEMS
