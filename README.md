@@ -1,5 +1,7 @@
 # WAYNE YONG
 
+![ProfilePic](https://github.com/wayneyong/CV-Resume/blob/ddce793f5816aa5836f3fc33abaf5192b85073d0/PROFILE-PIC.jpg)
+
 # 📝 RESUME / CV
 
 https://github.com/wayneyong/CV-Resume/blob/96df978c164910c174a2e55928a9a6e326a10826/28052023%20-%20Wayne%20Yong_Resume-CV.pdf
@@ -9,8 +11,6 @@ Updated on 23 May 2023
 # 🎓 EDUCATION & PROFESSIONAL CERTIFICATIONS
 
 # 💻 INFORMATION TECHNOLOGY
-
-![](https://github.com/wayneyong/CV-Resume/blob/6e867881936e4c635971b7aee970bb11c46af67f/Image001.jpg)
 
 # 🖥 ⌨ 🖱️ SYSTEM ADMINISTRATION / COMPUTER NETWORKING / IT SUPPORT
 
