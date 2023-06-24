@@ -10,8 +10,6 @@ Updated on 23 May 2023
 
 # 🖥️ INFORMATION TECHNOLOGY
 
-![How to Connect Phones](https://user-images.githubusercontent.com/101783/91640968-b7d46280-ea64-11ea-8340-94e3bacb706e.png)
-
 # INFORMATION SYSTEMS / SYSTEM ADMINISTRATION / COMPUTER NETWORKING / IT SUPPORT
 
 ![](https://user-images.githubusercontent.com/101783/91640968-b7d46280-ea64-11ea-8340-94e3bacb706e.png)
