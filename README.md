@@ -101,6 +101,8 @@ https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fd
 
 # 🏛️ Cambridge International Qualifications (CIQ), UK
 
+![Cambridge International Qualifications](https://github.com/wayneyong/CV-Resume/blob/d43c29ae1767c68440e34191a30cced2699015f8/CIQ-Logo.png)
+
 Postgraduate Diploma in Business Analytics
 
 # 🏛️ Singapore Management University | SMU Academy
