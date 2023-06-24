@@ -55,7 +55,7 @@ Data Analytics
 IT Security
 
 # BUSINESS
-# BUSINESS INFORMATION TECHNOLOGY
+# MANAGEMENT INFORMATION SYSTEMS
 
 Diploma in Business and Information Management
 
