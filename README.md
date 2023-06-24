@@ -14,7 +14,23 @@ Updated on 23 May 2023
 
 # INFORMATION SYSTEMS / SYSTEM ADMINISTRATION / COMPUTER NETWORKING / IT SUPPORT
 
-SysAdmin
+Diploma in Business and Information Management
+
+ITIL v3 Foundation in IT Service Management
+
+Professional Certificate in Management Information Systems
+
+Windows Server 2019: Windows Server Network Infrastructure
+
+AZ-800: Implement and operate an on-premises and hybrid networking infrastructure
+
+MD-100 and MD-101: Configure networking on Windows clients, Troubleshoot hardware and drivers, Configure user and device profiles
+
+70-741: Networking with Windows Server 2016
+
+Microsoft Technology Associate: Networking Fundamentals (MTA)
+
+CompTIA IT Fundamentals
 
 # 📈 DATA ANALYTICS / AI MACHINE LEARNING 
 
