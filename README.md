@@ -1,6 +1,6 @@
 # WAYNE YONG
 
-# RESUME / CV
+# 📝 RESUME / CV
 
 https://github.com/wayneyong/CV-Resume/blob/96df978c164910c174a2e55928a9a6e326a10826/28052023%20-%20Wayne%20Yong_Resume-CV.pdf
 
