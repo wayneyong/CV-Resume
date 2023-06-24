@@ -46,28 +46,52 @@ CompTIA IT Fundamentals
 
 https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/COMPTIA%20-%20ITF.pdf
 
+# National ITE Certificate in Electronics - (Wireless LAN)
+
+https://github.com/wayneyong/CV-Resume/blob/4df80b5eac7d42473e0b9113d8718834cee58268/NITEC%20-%20ELECWL.pdf
+
 # 📈 DATA ANALYTICS / AI MACHINE LEARNING 
 
-Data Analytics
+# Postgraduate Diploma in Business Analytics
+
+# Advanced Diploma in Data Analytics and Machine Learning
+
+https://github.com/wayneyong/CV-Resume/blob/4df80b5eac7d42473e0b9113d8718834cee58268/SMUA%20-%20ADDAML.pdf
 
 # 💻☠️ INFORMATION SECURITY / CYBERSECURITY
 
-IT Security
+# Certificate in Information Technology Risk, Governance and Security
+
+https://github.com/wayneyong/CV-Resume/blob/9a46cc155d3c13f5a122639c1824e0fd05affcda/SMUA%20-%20CITRGS.pdf
+
+# LFS216: Linux Security Fundamentals
+
+https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/LF%20-%20LSF216.pdf
 
 # BUSINESS
 # MANAGEMENT INFORMATION SYSTEMS
 
-Diploma in Business and Information Management
+# Diploma in Business and Information Management
 
 https://github.com/wayneyong/CV-Resume/blob/4df80b5eac7d42473e0b9113d8718834cee58268/KAPLAN%20-%20DIPBIM.pdf
 
-Professional Certificate in Management Information Systems
+# Professional Certificate in Management Information Systems
 
 https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/MSBM%20-%20PCMIS.pdf
 
 # 📱📢 DIGITAL MARKETING E-COMMERCE / SALES
 
-Digital Marketing
+# Professional Certificate in Digital Marketing
+
+https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/SMUA%20-%20PCDM.pdf
+
+# Google Ads Search Certification
+
+https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/GOOGLE%20-%20GASC.pdf
+
+# Google Analytics Individual Qualification
+
+https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/GOOGLE%20-%20GAIQ.pdf
 
 # ACCOUNTING AND FINANCE
 
