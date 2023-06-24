@@ -16,17 +16,35 @@ Updated on 23 May 2023
 
 ITIL v3 Foundation in IT Service Management
 
+https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/NUSISS%20-%20ITIL-V3.pdf
+
 Windows Server 2019: Windows Server Network Infrastructure
+
+https://github.com/wayneyong/CV-Resume/blob/0276e2151c8fd68a0a30670d24b574bd5cfc1b13/WINSERVER-2019.pdf
 
 AZ-800: Implement and operate an on-premises and hybrid networking infrastructure
 
+https://github.com/wayneyong/CV-Resume/blob/0276e2151c8fd68a0a30670d24b574bd5cfc1b13/AZ-800.pdf
+
 MD-100 and MD-101: Configure networking on Windows clients, Troubleshoot hardware and drivers, Configure user and device profiles
+
+https://github.com/wayneyong/CV-Resume/blob/0276e2151c8fd68a0a30670d24b574bd5cfc1b13/MD-100_1.pdf
+
+https://github.com/wayneyong/CV-Resume/blob/0276e2151c8fd68a0a30670d24b574bd5cfc1b13/MD-100_2.pdf
+
+https://github.com/wayneyong/CV-Resume/blob/0276e2151c8fd68a0a30670d24b574bd5cfc1b13/MD-101_1.pdf
 
 70-741: Networking with Windows Server 2016
 
+https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/MS%20-%2070-741.pdf
+
 Microsoft Technology Associate: Networking Fundamentals (MTA)
 
+https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/MS%20-%20MTA%20(NETWORKING).pdf
+
 CompTIA IT Fundamentals
+
+https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/COMPTIA%20-%20ITF.pdf
 
 # 📈 DATA ANALYTICS / AI MACHINE LEARNING 
 
