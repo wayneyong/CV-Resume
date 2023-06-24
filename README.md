@@ -68,8 +68,8 @@ https://github.com/wayneyong/CV-Resume/blob/9a46cc155d3c13f5a122639c1824e0fd05af
 
 https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/LF%20-%20LSF216.pdf
 
-# BUSINESS
-# MANAGEMENT INFORMATION SYSTEMS
+# 💼 BUSINESS
+# 🇮🇸 MANAGEMENT INFORMATION SYSTEMS
 
 📓 Diploma in Business and Information Management
 
@@ -93,7 +93,7 @@ https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fd
 
 https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/GOOGLE%20-%20GAIQ.pdf
 
-# ACCOUNTING AND FINANCE
+# 💰💵 ACCOUNTING AND FINANCE
 
 🏅 Professional Certificate in Accounting and Finance
 
