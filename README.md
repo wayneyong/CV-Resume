@@ -12,13 +12,9 @@ Updated on 23 May 2023
 
 ![](https://github.com/wayneyong/CV-Resume/blob/6e867881936e4c635971b7aee970bb11c46af67f/Image001.jpg)
 
-# INFORMATION SYSTEMS / SYSTEM ADMINISTRATION / COMPUTER NETWORKING / IT SUPPORT
-
-Diploma in Business and Information Management
+# SYSTEM ADMINISTRATION / COMPUTER NETWORKING / IT SUPPORT
 
 ITIL v3 Foundation in IT Service Management
-
-Professional Certificate in Management Information Systems
 
 Windows Server 2019: Windows Server Network Infrastructure
 
@@ -41,6 +37,14 @@ Data Analytics
 IT Security
 
 # BUSINESS
+# BUSINESS INFORMATION TECHNOLOGY
+
+Diploma in Business and Information Management
+https://github.com/wayneyong/CV-Resume/blob/4df80b5eac7d42473e0b9113d8718834cee58268/KAPLAN%20-%20DIPBIM.pdf
+
+Professional Certificate in Management Information Systems
+https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/MSBM%20-%20PCMIS.pdf
+
 # 📱📢 DIGITAL MARKETING E-COMMERCE / SALES
 
 Digital Marketing
