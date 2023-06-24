@@ -14,19 +14,19 @@ Updated on 23 May 2023
 
 # SYSTEM ADMINISTRATION / COMPUTER NETWORKING / IT SUPPORT
 
-ITIL v3 Foundation in IT Service Management
+🏅 ITIL v3 Foundation in IT Service Management
 
 https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/NUSISS%20-%20ITIL-V3.pdf
 
-Windows Server 2019: Windows Server Network Infrastructure
+🏅 Windows Server 2019: Windows Server Network Infrastructure
 
 https://github.com/wayneyong/CV-Resume/blob/0276e2151c8fd68a0a30670d24b574bd5cfc1b13/WINSERVER-2019.pdf
 
-AZ-800: Implement and operate an on-premises and hybrid networking infrastructure
+🏅 AZ-800: Implement and operate an on-premises and hybrid networking infrastructure
 
 https://github.com/wayneyong/CV-Resume/blob/0276e2151c8fd68a0a30670d24b574bd5cfc1b13/AZ-800.pdf
 
-MD-100 and MD-101: Configure networking on Windows clients, Troubleshoot hardware and drivers, Configure user and device profiles
+🏅 MD-100 and MD-101: Configure networking on Windows clients, Troubleshoot hardware and drivers, Configure user and device profiles
 
 https://github.com/wayneyong/CV-Resume/blob/0276e2151c8fd68a0a30670d24b574bd5cfc1b13/MD-100_1.pdf
 
@@ -34,76 +34,76 @@ https://github.com/wayneyong/CV-Resume/blob/0276e2151c8fd68a0a30670d24b574bd5cfc
 
 https://github.com/wayneyong/CV-Resume/blob/0276e2151c8fd68a0a30670d24b574bd5cfc1b13/MD-101_1.pdf
 
-70-741: Networking with Windows Server 2016
+🏅 70-741: Networking with Windows Server 2016
 
 https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/MS%20-%2070-741.pdf
 
-Microsoft Technology Associate: Networking Fundamentals (MTA)
+🏅 Microsoft Technology Associate: Networking Fundamentals (MTA)
 
 https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/MS%20-%20MTA%20(NETWORKING).pdf
 
-CompTIA IT Fundamentals
+🏅 CompTIA IT Fundamentals
 
 https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/COMPTIA%20-%20ITF.pdf
 
-National ITE Certificate in Electronics - (Wireless LAN)
+🏅 National ITE Certificate in Electronics - (Wireless LAN)
 
 https://github.com/wayneyong/CV-Resume/blob/4df80b5eac7d42473e0b9113d8718834cee58268/NITEC%20-%20ELECWL.pdf
 
 # 📈 DATA ANALYTICS / AI MACHINE LEARNING 
 
-Postgraduate Diploma in Business Analytics
+🏅 Postgraduate Diploma in Business Analytics
 
-Advanced Diploma in Data Analytics and Machine Learning
+🏅 Advanced Diploma in Data Analytics and Machine Learning
 
 https://github.com/wayneyong/CV-Resume/blob/4df80b5eac7d42473e0b9113d8718834cee58268/SMUA%20-%20ADDAML.pdf
 
 # 💻☠️ INFORMATION SECURITY / CYBERSECURITY
 
-Certificate in Information Technology Risk, Governance and Security
+🏅 Certificate in Information Technology Risk, Governance and Security
 
 https://github.com/wayneyong/CV-Resume/blob/9a46cc155d3c13f5a122639c1824e0fd05affcda/SMUA%20-%20CITRGS.pdf
 
-LFS216: Linux Security Fundamentals
+🏅 LFS216: Linux Security Fundamentals
 
 https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/LF%20-%20LSF216.pdf
 
 # BUSINESS
 # MANAGEMENT INFORMATION SYSTEMS
 
-Diploma in Business and Information Management
+🏅 Diploma in Business and Information Management
 
 https://github.com/wayneyong/CV-Resume/blob/4df80b5eac7d42473e0b9113d8718834cee58268/KAPLAN%20-%20DIPBIM.pdf
 
-Professional Certificate in Management Information Systems
+🏅 Professional Certificate in Management Information Systems
 
 https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/MSBM%20-%20PCMIS.pdf
 
 # 📱📢 DIGITAL MARKETING E-COMMERCE / SALES
 
-Professional Certificate in Digital Marketing
+🏅 Professional Certificate in Digital Marketing
 
 https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/SMUA%20-%20PCDM.pdf
 
-Google Ads Search Certification
+🏅 Google Ads Search Certification
 
 https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/GOOGLE%20-%20GASC.pdf
 
-Google Analytics Individual Qualification
+🏅 Google Analytics Individual Qualification
 
 https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/GOOGLE%20-%20GAIQ.pdf
 
 # ACCOUNTING AND FINANCE
 
-Professional Certificate in Accounting and Finance
+🏅 Professional Certificate in Accounting and Finance
 
 https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/NUSBIZ%20-%20PCAF.pdf
 
-# Cambridge International Qualifications (CIQ), UK
+# 🏛️ Cambridge International Qualifications (CIQ), UK
 
 Postgraduate Diploma in Business Analytics
 
-# Singapore Management University | SMU Academy
+# 🏛️ Singapore Management University | SMU Academy
 
 Advanced Diploma in Data Analytics and Machine Learning
 
@@ -117,13 +117,13 @@ Professional Certificate in Digital Marketing
 
 https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/SMUA%20-%20PCDM.pdf
 
-# Kaplan Higher Education Institute
+# 🏛️ Kaplan Higher Education Institute
 
 Diploma in Business and Information Management
 
 https://github.com/wayneyong/CV-Resume/blob/4df80b5eac7d42473e0b9113d8718834cee58268/KAPLAN%20-%20DIPBIM.pdf
 
-# National University of Singapore
+# 🏛️ National University of Singapore
 # NUS Business School 
 
 Professional Certificate in Accounting and Finance
@@ -136,13 +136,13 @@ ITIL v3 Foundation in IT Service Management
 
 https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/NUSISS%20-%20ITIL-V3.pdf
 
-# Metropolitan School of Business and Management, UK
+# 🏛️ Metropolitan School of Business and Management, UK
 
 Professional Certificate in Management Information Systems
 
 https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/MSBM%20-%20PCMIS.pdf
 
-# Microsoft
+#  Microsoft
 
 Windows Server 2019: Windows Server Network Infrastructure
 
