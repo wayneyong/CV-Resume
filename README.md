@@ -54,7 +54,9 @@ https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fd
 
 https://github.com/wayneyong/CV-Resume/blob/4df80b5eac7d42473e0b9113d8718834cee58268/NITEC%20-%20ELECWL.pdf
 
-# 📈 🇦🇮 DATA ANALYTICS / MACHINE LEARNING 
+# 📈 DATA ANALYTICS / MACHINE LEARNING 
+
+![Data Analytics Banner](https://github.com/wayneyong/CV-Resume/blob/74e926e904cbedae6a77f064396191eb7013f1e4/DATA-ANALYTICS-BANNER-IMAGE03.jpg)
 
 📓 Postgraduate Diploma in Business Analytics
 
