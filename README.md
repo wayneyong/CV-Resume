@@ -39,7 +39,7 @@ Professional Certificate in Accounting and Finance
 
 https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/NUSBIZ%20-%20PCAF.pdf
 
-# NUS Institute of Systems Science
+# NUS-ISS
 
 ITIL v3 Foundation in IT Service Management
 
