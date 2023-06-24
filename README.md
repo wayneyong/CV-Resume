@@ -79,7 +79,7 @@ https://github.com/wayneyong/CV-Resume/blob/4df80b5eac7d42473e0b9113d8718834cee5
 
 https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/MSBM%20-%20PCMIS.pdf
 
-# 📱📢 DIGITAL MARKETING E-COMMERCE / SALES
+# 📱📢 DIGITAL MARKETING / E-COMMERCE
 
 🏅 Professional Certificate in Digital Marketing
 
