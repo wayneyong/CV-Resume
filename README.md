@@ -16,6 +16,8 @@ Updated on 23 May 2023
 
 # 🖥 ⌨ 🖱️ SYSTEM ADMINISTRATION / COMPUTER NETWORKING / IT SUPPORT
 
+![Computer Networking Banner](https://github.com/wayneyong/CV-Resume/blob/6dd32cbb5edbc12ac7880dd96a8071cc3b63d4cc/SYSADMIN-IT-NETWORK-BANNER-IMAGE03.jpg)
+
 🏅 ITIL v3 Foundation in IT Service Management
 
 https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/NUSISS%20-%20ITIL-V3.pdf
