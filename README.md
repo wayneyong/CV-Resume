@@ -6,7 +6,7 @@ https://github.com/wayneyong/CV-Resume/blob/96df978c164910c174a2e55928a9a6e326a1
 
 Updated on 23 May 2023
 
-# 🎓📓 EDUCATION & PROFESSIONAL CERTIFICATIONS
+# 🎓 EDUCATION & PROFESSIONAL CERTIFICATIONS
 
 # 🖥️ INFORMATION TECHNOLOGY
 
@@ -46,15 +46,15 @@ https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fd
 
 https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/COMPTIA%20-%20ITF.pdf
 
-🏅 National ITE Certificate in Electronics - (Wireless LAN)
+📓 National ITE Certificate in Electronics - (Wireless LAN)
 
 https://github.com/wayneyong/CV-Resume/blob/4df80b5eac7d42473e0b9113d8718834cee58268/NITEC%20-%20ELECWL.pdf
 
 # 📈 DATA ANALYTICS / AI MACHINE LEARNING 
 
-🏅 Postgraduate Diploma in Business Analytics
+📓 Postgraduate Diploma in Business Analytics
 
-🏅 Advanced Diploma in Data Analytics and Machine Learning
+📓 Advanced Diploma in Data Analytics and Machine Learning
 
 https://github.com/wayneyong/CV-Resume/blob/4df80b5eac7d42473e0b9113d8718834cee58268/SMUA%20-%20ADDAML.pdf
 
@@ -71,7 +71,7 @@ https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fd
 # BUSINESS
 # MANAGEMENT INFORMATION SYSTEMS
 
-🏅 Diploma in Business and Information Management
+📓 Diploma in Business and Information Management
 
 https://github.com/wayneyong/CV-Resume/blob/4df80b5eac7d42473e0b9113d8718834cee58268/KAPLAN%20-%20DIPBIM.pdf
 
