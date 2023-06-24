@@ -60,6 +60,8 @@ https://github.com/wayneyong/CV-Resume/blob/4df80b5eac7d42473e0b9113d8718834cee5
 
 # 💻☠️ INFORMATION SECURITY / CYBERSECURITY
 
+![Cybersecurity](https://github.com/wayneyong/CV-Resume/blob/2d86b342b185b1a25d670c7c2327e7ab48115b13/IT-SECURITY-IMAGE01.png)
+
 🏅 Certificate in Information Technology Risk, Governance and Security
 
 https://github.com/wayneyong/CV-Resume/blob/9a46cc155d3c13f5a122639c1824e0fd05affcda/SMUA%20-%20CITRGS.pdf
