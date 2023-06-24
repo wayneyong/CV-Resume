@@ -91,7 +91,7 @@ https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fd
 
 # 📱📢 DIGITAL MARKETING / E-COMMERCE
 
-![Digital Marketing Banner](https://github.com/wayneyong/CV-Resume/blob/f2bc8a7ba65e1a5cbcf7983ca6248fe92f2d4540/DATA-ANALYTICS-ML-%20BANNER%20IMAGE04.jpg)
+![Digital Marketing Banner](https://github.com/wayneyong/CV-Resume/blob/f2bc8a7ba65e1a5cbcf7983ca6248fe92f2d4540/DIGITAL-MARKETING-BANNER-IMAGE05.jpg)
 
 🏅 Professional Certificate in Digital Marketing
 
