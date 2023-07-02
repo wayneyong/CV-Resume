@@ -54,7 +54,7 @@ https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fd
 
 https://github.com/wayneyong/CV-Resume/blob/4df80b5eac7d42473e0b9113d8718834cee58268/NITEC%20-%20ELECWL.pdf
 
-# 💻☠️ INFORMATION SECURITY / CYBERSECURITY
+# INFORMATION SECURITY / CYBERSECURITY
 
 ![Cybersecurity](https://github.com/wayneyong/CV-Resume/blob/2d86b342b185b1a25d670c7c2327e7ab48115b13/IT-SECURITY-IMAGE01.png)
 
