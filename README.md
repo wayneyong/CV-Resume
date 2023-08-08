@@ -12,7 +12,7 @@ Updated on 23 May 2023
 
 # 🏛️ Cambridge International Qualifications (CIQ), UK
 
-![Cambridge International Qualifications](https://github.com/wayneyong/CV-Resume/blob/d43c29ae1767c68440e34191a30cced2699015f8/CIQ-Logo.png)
+![Cambridge International Qualifications](https://github.com/wayneyong/CV-Resume/blob/afbaeb1d24768d3f9b039e4c6f14149fb920bb14/CIQ%20LOGO.jpg)
 
 📓 Postgraduate Diploma in Business Analytics
 
