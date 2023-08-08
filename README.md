@@ -10,14 +10,6 @@ Updated on 23 May 2023
 
 # 🎓 EDUCATION & PROFESSIONAL CERTIFICATIONS
 
-# INFORMATION TECHNOLOGY
-
-![Information Technology Banner](https://github.com/wayneyong/CV-Resume/blob/a0c3ee02eccacd0e477dda3d1bdadddc4106ec65/IT-BANNER-IMAGE02.jpg)
-
-# SYSTEM ADMINISTRATION / COMPUTER NETWORKING / IT SUPPORT
-
-![IT Infrastructure Banner](https://github.com/wayneyong/CV-Resume/blob/be0557e72276ee5be8d40ce5cf93bf79591e3a5e/IT-INFRASTRUCTURE-BANNER.jpg)
-
 🏅 ITIL v3 Foundation in IT Service Management
 
 https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/NUSISS%20-%20ITIL-V3.pdf
@@ -54,10 +46,6 @@ https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fd
 
 https://github.com/wayneyong/CV-Resume/blob/4df80b5eac7d42473e0b9113d8718834cee58268/NITEC%20-%20ELECWL.pdf
 
-# INFORMATION SECURITY / CYBERSECURITY
-
-![Cybersecurity](https://github.com/wayneyong/CV-Resume/blob/2d86b342b185b1a25d670c7c2327e7ab48115b13/IT-SECURITY-IMAGE01.png)
-
 🏅 Certificate in Information Technology Risk, Governance and Security
 
 https://github.com/wayneyong/CV-Resume/blob/9a46cc155d3c13f5a122639c1824e0fd05affcda/SMUA%20-%20CITRGS.pdf
@@ -66,20 +54,11 @@ https://github.com/wayneyong/CV-Resume/blob/9a46cc155d3c13f5a122639c1824e0fd05af
 
 https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/LF%20-%20LSF216.pdf
 
-# 📈 DATA ANALYTICS / MACHINE LEARNING 
-
-![Data Analytics Banner](https://github.com/wayneyong/CV-Resume/blob/f2bc8a7ba65e1a5cbcf7983ca6248fe92f2d4540/DATA-ANALYTICS-ML-%20BANNER%20IMAGE04.jpg)
-
 📓 Postgraduate Diploma in Business Analytics
 
 📓 Advanced Diploma in Data Analytics and Machine Learning
 
 https://github.com/wayneyong/CV-Resume/blob/4df80b5eac7d42473e0b9113d8718834cee58268/SMUA%20-%20ADDAML.pdf
-
-# 💼 BUSINESS
-# INFORMATION SYSTEMS
-
-![Management Information Systems Banner](https://github.com/wayneyong/CV-Resume/blob/a9e77c71e3c1f66f5ee88dbe0d332e8d5090bd4a/BUSINESS-INFORMATION-SYSTEMS-BANNER.jpg)
 
 📓 Diploma in Business and Information Management
 
@@ -88,10 +67,6 @@ https://github.com/wayneyong/CV-Resume/blob/4df80b5eac7d42473e0b9113d8718834cee5
 🏅 Professional Certificate in Management Information Systems
 
 https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/MSBM%20-%20PCMIS.pdf
-
-# 📱📢 DIGITAL MARKETING / E-COMMERCE
-
-![Digital Marketing Banner](https://github.com/wayneyong/CV-Resume/blob/f2bc8a7ba65e1a5cbcf7983ca6248fe92f2d4540/DIGITAL-MARKETING-BANNER-IMAGE05.jpg)
 
 🏅 Professional Certificate in Digital Marketing
 
@@ -104,8 +79,6 @@ https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fd
 🏅 Google Analytics Individual Qualification
 
 https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/GOOGLE%20-%20GAIQ.pdf
-
-# 💰💵 ACCOUNTING AND FINANCE
 
 🏅 Professional Certificate in Accounting and Finance
 
