@@ -117,4 +117,4 @@ https://github.com/wayneyong/CV-Resume/blob/0276e2151c8fd68a0a30670d24b574bd5cfc
 
 # 🏛️ Singapore-Cambridge General Certificate of Education Normal Level
 
-📓 Singapore-Cambridge General Certificate of Education Normal Level
+https://github.com/wayneyong/CV-Resume/blob/0276e2151c8fd68a0a30670d24b574bd5cfc1b13/SC%20GCE-N.pdf
