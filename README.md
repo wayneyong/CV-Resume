@@ -18,7 +18,7 @@ Updated on 23 May 2023
 
 # Singapore Management University | SMU Academy
 
-![Cambridge International Qualifications](https://github.com/wayneyong/CV-Resume/blob/afbaeb1d24768d3f9b039e4c6f14149fb920bb14/CIQ%20LOGO.jpg)
+![SMU Academy](https://github.com/wayneyong/CV-Resume/blob/afbaeb1d24768d3f9b039e4c6f14149fb920bb14/SMU%20A%20LOGO.jpg)
 
 📓 Advanced Diploma in Data Analytics and Machine Learning
 
@@ -34,7 +34,7 @@ https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fd
 
 # Kaplan Higher Education Institute
 
-![Cambridge International Qualifications](https://github.com/wayneyong/CV-Resume/blob/afbaeb1d24768d3f9b039e4c6f14149fb920bb14/CIQ%20LOGO.jpg)
+![Kaplan Higher Education Institute](https://github.com/wayneyong/CV-Resume/blob/afbaeb1d24768d3f9b039e4c6f14149fb920bb14/KAPLAN%20HIGHER%20EDUCATION%20INSTITUTE%20LOGO.jpg)
 
 📓 Diploma in Business and Information Management
 
@@ -43,7 +43,7 @@ https://github.com/wayneyong/CV-Resume/blob/4df80b5eac7d42473e0b9113d8718834cee5
 # National University of Singapore
 # NUS Business School 
 
-![Cambridge International Qualifications](https://github.com/wayneyong/CV-Resume/blob/afbaeb1d24768d3f9b039e4c6f14149fb920bb14/CIQ%20LOGO.jpg)
+![NUS Business School](https://github.com/wayneyong/CV-Resume/blob/afbaeb1d24768d3f9b039e4c6f14149fb920bb14/NUS%20BUSINESS%20SCHOOL%20LOGO.jpg)
 
 🏅 Professional Certificate in Accounting and Finance
 
@@ -51,7 +51,7 @@ https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fd
 
 # NUS-ISS
 
-![Cambridge International Qualifications](https://github.com/wayneyong/CV-Resume/blob/afbaeb1d24768d3f9b039e4c6f14149fb920bb14/CIQ%20LOGO.jpg)
+![NUS ISS](https://github.com/wayneyong/CV-Resume/blob/afbaeb1d24768d3f9b039e4c6f14149fb920bb14/NUS%20ISS%20LOGO.jpg)
 
 🏅 ITIL v3 Foundation in IT Service Management
 
