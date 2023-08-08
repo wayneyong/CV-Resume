@@ -95,7 +95,7 @@ https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fd
 
 # The Linux Foundation
 
-![Cambridge International Qualifications](https://github.com/wayneyong/CV-Resume/blob/afbaeb1d24768d3f9b039e4c6f14149fb920bb14/CIQ%20LOGO.jpg)
+![The Linux Foundation](https://github.com/wayneyong/CV-Resume/blob/312381653815445811c11fbabce7c0ed4b3d8271/LINUX%20FOUNDATION%20LOGO.jpg)
 
 🏅 LFS216: Linux Security Fundamentals
 
@@ -131,7 +131,7 @@ https://github.com/wayneyong/CV-Resume/blob/4df80b5eac7d42473e0b9113d8718834cee5
 
 # SkillsFuture SG
 
-![Cambridge International Qualifications](https://github.com/wayneyong/CV-Resume/blob/afbaeb1d24768d3f9b039e4c6f14149fb920bb14/CIQ%20LOGO.jpg)
+![SkillsFuture Singapore](https://github.com/wayneyong/CV-Resume/blob/312381653815445811c11fbabce7c0ed4b3d8271/SKILLSFUTURE%20SINGAPORE%20LOGO.jpg)
 
 📓 Workplace Literacy and Numeracy (WPLN) Level 5 and above
 
