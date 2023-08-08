@@ -18,6 +18,8 @@ Updated on 23 May 2023
 
 # 🏛️ Singapore Management University | SMU Academy
 
+![Cambridge International Qualifications](https://github.com/wayneyong/CV-Resume/blob/afbaeb1d24768d3f9b039e4c6f14149fb920bb14/CIQ%20LOGO.jpg)
+
 📓 Advanced Diploma in Data Analytics and Machine Learning
 
 https://github.com/wayneyong/CV-Resume/blob/4df80b5eac7d42473e0b9113d8718834cee58268/SMUA%20-%20ADDAML.pdf
@@ -32,6 +34,8 @@ https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fd
 
 # 🏛️ Kaplan Higher Education Institute
 
+![Cambridge International Qualifications](https://github.com/wayneyong/CV-Resume/blob/afbaeb1d24768d3f9b039e4c6f14149fb920bb14/CIQ%20LOGO.jpg)
+
 📓 Diploma in Business and Information Management
 
 https://github.com/wayneyong/CV-Resume/blob/4df80b5eac7d42473e0b9113d8718834cee58268/KAPLAN%20-%20DIPBIM.pdf
@@ -39,11 +43,15 @@ https://github.com/wayneyong/CV-Resume/blob/4df80b5eac7d42473e0b9113d8718834cee5
 # 🏛️ National University of Singapore
 # NUS Business School 
 
+![Cambridge International Qualifications](https://github.com/wayneyong/CV-Resume/blob/afbaeb1d24768d3f9b039e4c6f14149fb920bb14/CIQ%20LOGO.jpg)
+
 🏅 Professional Certificate in Accounting and Finance
 
 https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/NUSBIZ%20-%20PCAF.pdf
 
 # NUS-ISS
+
+![Cambridge International Qualifications](https://github.com/wayneyong/CV-Resume/blob/afbaeb1d24768d3f9b039e4c6f14149fb920bb14/CIQ%20LOGO.jpg)
 
 🏅 ITIL v3 Foundation in IT Service Management
 
@@ -51,11 +59,15 @@ https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fd
 
 # 🏛️ Metropolitan School of Business and Management, UK
 
+![Cambridge International Qualifications](https://github.com/wayneyong/CV-Resume/blob/afbaeb1d24768d3f9b039e4c6f14149fb920bb14/CIQ%20LOGO.jpg)
+
 🏅 Professional Certificate in Management Information Systems
 
 https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/MSBM%20-%20PCMIS.pdf
 
 # 🏬 Microsoft
+
+![Cambridge International Qualifications](https://github.com/wayneyong/CV-Resume/blob/afbaeb1d24768d3f9b039e4c6f14149fb920bb14/CIQ%20LOGO.jpg)
 
 🏅 Windows Server 2019: Windows Server Network Infrastructure
 
@@ -83,11 +95,15 @@ https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fd
 
 # 🏬 The Linux Foundation
 
+![Cambridge International Qualifications](https://github.com/wayneyong/CV-Resume/blob/afbaeb1d24768d3f9b039e4c6f14149fb920bb14/CIQ%20LOGO.jpg)
+
 🏅 LFS216: Linux Security Fundamentals
 
 https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/LF%20-%20LSF216.pdf
 
 # 🏬 Google
+
+![Cambridge International Qualifications](https://github.com/wayneyong/CV-Resume/blob/afbaeb1d24768d3f9b039e4c6f14149fb920bb14/CIQ%20LOGO.jpg)
 
 🏅 Google Ads Search Certification
 
@@ -99,17 +115,23 @@ https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fd
 
 # 🏬 CompTIA
 
+![Cambridge International Qualifications](https://github.com/wayneyong/CV-Resume/blob/afbaeb1d24768d3f9b039e4c6f14149fb920bb14/CIQ%20LOGO.jpg)
+
 🏅 CompTIA IT Fundamentals
 
 https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/COMPTIA%20-%20ITF.pdf
 
 # 🏛️ Institute of Technical Education
 
+![Cambridge International Qualifications](https://github.com/wayneyong/CV-Resume/blob/afbaeb1d24768d3f9b039e4c6f14149fb920bb14/CIQ%20LOGO.jpg)
+
 📓 National ITE Certificate in Electronics - (Wireless LAN)
 
 https://github.com/wayneyong/CV-Resume/blob/4df80b5eac7d42473e0b9113d8718834cee58268/NITEC%20-%20ELECWL.pdf
 
 # 🏛️ SkillsFuture SG
+
+![Cambridge International Qualifications](https://github.com/wayneyong/CV-Resume/blob/afbaeb1d24768d3f9b039e4c6f14149fb920bb14/CIQ%20LOGO.jpg)
 
 📓 Workplace Literacy and Numeracy (WPLN) Level 5 and above
 
