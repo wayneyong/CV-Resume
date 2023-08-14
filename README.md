@@ -14,21 +14,27 @@ Updated on 23 May 2023
 
 ![Cambridge International Qualifications](https://github.com/wayneyong/CV-Resume/blob/afbaeb1d24768d3f9b039e4c6f14149fb920bb14/CIQ%20LOGO.jpg)
 
-📓 Postgraduate Qualification, Postgraduate Diploma in Business Analytics
+📓 Education
+
+Postgraduate Diploma in Business Analytics
 
 # Singapore Management University | SMU Academy
 
 ![SMU Academy](https://github.com/wayneyong/CV-Resume/blob/afbaeb1d24768d3f9b039e4c6f14149fb920bb14/SMU%20A%20LOGO.jpg)
 
-📓 Advanced Diploma in Data Analytics and Machine Learning
+📓 Education
+
+Advanced Diploma in Data Analytics and Machine Learning
 
 https://github.com/wayneyong/CV-Resume/blob/4df80b5eac7d42473e0b9113d8718834cee58268/SMUA%20-%20ADDAML.pdf
 
-🏅 Certification, Information Technology Risk Governance and Security (IBF Level 1)
+🏅 Professional Certification
+
+Certification, Information Technology Risk Governance and Security (IBF Level 1)
 
 https://github.com/wayneyong/CV-Resume/blob/9a46cc155d3c13f5a122639c1824e0fd05affcda/SMUA%20-%20CITRGS.pdf
 
-🏅 Professional Certificate in Digital Marketing
+Professional Certificate in Digital Marketing
 
 https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/SMUA%20-%20PCDM.pdf
 
@@ -36,7 +42,10 @@ https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fd
 
 ![Kaplan Higher Education Institute](https://github.com/wayneyong/CV-Resume/blob/afbaeb1d24768d3f9b039e4c6f14149fb920bb14/KAPLAN%20HIGHER%20EDUCATION%20INSTITUTE%20LOGO.jpg)
 
-📓 Diploma in Business and Information Management
+📓 Education
+
+Diploma in Business and Information Management
+Foundation Studies
 
 https://github.com/wayneyong/CV-Resume/blob/4df80b5eac7d42473e0b9113d8718834cee58268/KAPLAN%20-%20DIPBIM.pdf
 
@@ -45,7 +54,9 @@ https://github.com/wayneyong/CV-Resume/blob/4df80b5eac7d42473e0b9113d8718834cee5
 
 ![NUS Business School](https://github.com/wayneyong/CV-Resume/blob/afbaeb1d24768d3f9b039e4c6f14149fb920bb14/NUS%20BUSINESS%20SCHOOL%20LOGO.jpg)
 
-🏅 Professional Certificate in Accounting and Finance
+🏅 Professional Certification
+
+Professional Certificate in Accounting and Finance
 
 https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/NUSBIZ%20-%20PCAF.pdf
 
@@ -53,7 +64,9 @@ https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fd
 
 ![NUS ISS](https://github.com/wayneyong/CV-Resume/blob/afbaeb1d24768d3f9b039e4c6f14149fb920bb14/NUS%20ISS%20LOGO.jpg)
 
-🏅 ITIL v3 Foundation in IT Service Management
+🏅 Professional Certification
+
+ITIL v3 Foundation in IT Service Management
 
 https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/NUSISS%20-%20ITIL-V3.pdf
 
@@ -61,7 +74,9 @@ https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fd
 
 ![MSBM UK](https://github.com/wayneyong/CV-Resume/blob/afbaeb1d24768d3f9b039e4c6f14149fb920bb14/MSBM%20UK%20LOGO.jpg)
 
-🏅 Professional Certificate in Management Information Systems
+🏅 Professional Certification
+
+Professional Certificate in Management Information Systems
 
 https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/MSBM%20-%20PCMIS.pdf
 
@@ -69,15 +84,17 @@ https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fd
 
 ![Microsoft](https://github.com/wayneyong/CV-Resume/blob/afbaeb1d24768d3f9b039e4c6f14149fb920bb14/MICROSOFT%20LOGO.png)
 
-🏅 Windows Server 2019: Windows Server Network Infrastructure
+🏅 Professional Certification
+
+Windows Server 2019: Windows Server Network Infrastructure
 
 https://github.com/wayneyong/CV-Resume/blob/0276e2151c8fd68a0a30670d24b574bd5cfc1b13/WINSERVER-2019.pdf
 
-🏅 AZ-800: Implement and operate an on-premises and hybrid networking infrastructure
+AZ-800: Implement and operate an on-premises and hybrid networking infrastructure
 
 https://github.com/wayneyong/CV-Resume/blob/0276e2151c8fd68a0a30670d24b574bd5cfc1b13/AZ-800.pdf
 
-🏅 MD-100 and MD-101: Configure networking on Windows clients, Troubleshoot hardware and drivers, Configure user and device profiles
+MD-100 and MD-101: Configure networking on Windows clients, Troubleshoot hardware and drivers, Configure user and device profiles
 
 https://github.com/wayneyong/CV-Resume/blob/0276e2151c8fd68a0a30670d24b574bd5cfc1b13/MD-100_1.pdf
 
@@ -85,11 +102,11 @@ https://github.com/wayneyong/CV-Resume/blob/0276e2151c8fd68a0a30670d24b574bd5cfc
 
 https://github.com/wayneyong/CV-Resume/blob/0276e2151c8fd68a0a30670d24b574bd5cfc1b13/MD-101_1.pdf
 
-🏅 70-741: Networking with Windows Server 2016
+70-741: Networking with Windows Server 2016
 
 https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/MS%20-%2070-741.pdf
 
-🏅 Microsoft Technology Associate: Networking Fundamentals (MTA)
+Microsoft Technology Associate: Networking Fundamentals (MTA)
 
 https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/MS%20-%20MTA%20(NETWORKING).pdf
 
@@ -97,7 +114,9 @@ https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fd
 
 ![The Linux Foundation](https://github.com/wayneyong/CV-Resume/blob/312381653815445811c11fbabce7c0ed4b3d8271/LINUX%20FOUNDATION%20LOGO.jpg)
 
-🏅 LFS216: Linux Security Fundamentals
+🏅 Professional Certification
+
+LFS216: Linux Security Fundamentals
 
 https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/LF%20-%20LSF216.pdf
 
@@ -105,11 +124,13 @@ https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fd
 
 ![Google](https://github.com/wayneyong/CV-Resume/blob/afbaeb1d24768d3f9b039e4c6f14149fb920bb14/GOOGLE%20LOGO.jpg)
 
-🏅 Google Ads Search Certification
+🏅 Professional Certification
+
+Google Ads Search Certification
 
 https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/GOOGLE%20-%20GASC.pdf
 
-🏅 Google Analytics Individual Qualification
+Google Analytics Individual Qualification
 
 https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/GOOGLE%20-%20GAIQ.pdf
 
@@ -117,7 +138,9 @@ https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fd
 
 ![CompTIA](https://github.com/wayneyong/CV-Resume/blob/afbaeb1d24768d3f9b039e4c6f14149fb920bb14/COMPTIA%20LOGO.png)
 
-🏅 CompTIA IT Fundamentals
+🏅 Professional Certification
+
+CompTIA IT Fundamentals
 
 https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/COMPTIA%20-%20ITF.pdf
 
@@ -125,7 +148,9 @@ https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fd
 
 ![ITE College Central](https://github.com/wayneyong/CV-Resume/blob/afbaeb1d24768d3f9b039e4c6f14149fb920bb14/INSTITUTE%20OF%20TECHNICAL%20EDUCATION%20LOGO.jpg)
 
-📓 National ITE Certificate in Electronics - (Wireless LAN)
+📓 Education
+
+National ITE Certificate in Electronics - (Wireless LAN)
 
 https://github.com/wayneyong/CV-Resume/blob/4df80b5eac7d42473e0b9113d8718834cee58268/NITEC%20-%20ELECWL.pdf
 
@@ -133,7 +158,7 @@ https://github.com/wayneyong/CV-Resume/blob/4df80b5eac7d42473e0b9113d8718834cee5
 
 ![SkillsFuture Singapore](https://github.com/wayneyong/CV-Resume/blob/312381653815445811c11fbabce7c0ed4b3d8271/SKILLSFUTURE%20SINGAPORE%20LOGO.jpg)
 
-📓 Workplace Literacy and Numeracy (WPLN) Level 5 and above
+🏛️ Workplace Literacy and Numeracy (WPLN) Level 5 and above
 
 https://github.com/wayneyong/CV-Resume/blob/0276e2151c8fd68a0a30670d24b574bd5cfc1b13/SSG_WPLN.pdf
 
