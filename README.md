@@ -14,11 +14,11 @@ Updated on 23 May 2023
 
 ![Cambridge International Qualifications](https://github.com/wayneyong/CV-Resume/blob/afbaeb1d24768d3f9b039e4c6f14149fb920bb14/CIQ%20LOGO.jpg)
 
-https://github.com/wayneyong/CV-Resume/blob/dc56c97c92985cbe398119bd07a43927214da96f/CIQ%20UK%20-%20PGDBA.pdf
-
 📓 Education
 
 Postgraduate Diploma in Business Analytics
+
+https://github.com/wayneyong/CV-Resume/blob/dc56c97c92985cbe398119bd07a43927214da96f/CIQ%20UK%20-%20PGDBA.pdf
 
 # Singapore Management University | SMU Academy
 
