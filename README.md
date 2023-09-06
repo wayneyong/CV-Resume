@@ -20,7 +20,8 @@ Postgraduate Diploma in Business Analytics
 
 https://github.com/wayneyong/CV-Resume/blob/efe924479a15f898158a238be00362dfb09b0214/CIQ%20UK%20-%20PGDBA.pdf
 
-# Singapore Management University | SMU Academy
+# Singapore Management University
+# SMU Academy
 
 ![SMU Academy](https://github.com/wayneyong/CV-Resume/blob/afbaeb1d24768d3f9b039e4c6f14149fb920bb14/SMU%20A%20LOGO.jpg)
 
