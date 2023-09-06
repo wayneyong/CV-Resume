@@ -164,7 +164,7 @@ https://github.com/wayneyong/CV-Resume/blob/4df80b5eac7d42473e0b9113d8718834cee5
 
 🏛️ Workplace Literacy and Numeracy (WPLN) Level 5 and above
 
-https://github.com/wayneyong/CV-Resume/blob/0276e2151c8fd68a0a30670d24b574bd5cfc1b13/SSG_WPLN.pdf
+https://github.com/wayneyong/CV-Resume/blob/108109e6afd7f10e8a89311b7b01e2c8e42a5d84/SSG_WPLN.pdf
 
 # 🏛️ Singapore-Cambridge General Certificate of Education Normal Level
 
