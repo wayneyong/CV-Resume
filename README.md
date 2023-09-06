@@ -40,18 +40,6 @@ Professional Certificate in Digital Marketing
 
 https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/SMUA%20-%20PCDM.pdf
 
-# Kaplan Higher Education Institute
-
-![Kaplan Higher Education Institute](https://github.com/wayneyong/CV-Resume/blob/afbaeb1d24768d3f9b039e4c6f14149fb920bb14/KAPLAN%20HIGHER%20EDUCATION%20INSTITUTE%20LOGO.jpg)
-
-📓 Education
-
-Diploma in Business and Information Management
-
-Foundation Studies
-
-https://github.com/wayneyong/CV-Resume/blob/4df80b5eac7d42473e0b9113d8718834cee58268/KAPLAN%20-%20DIPBIM.pdf
-
 # National University of Singapore
 # NUS Business School 
 
@@ -72,6 +60,18 @@ https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fd
 ITIL v3 Foundation in IT Service Management
 
 https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/NUSISS%20-%20ITIL-V3.pdf
+
+# Kaplan Higher Education Institute
+
+![Kaplan Higher Education Institute](https://github.com/wayneyong/CV-Resume/blob/afbaeb1d24768d3f9b039e4c6f14149fb920bb14/KAPLAN%20HIGHER%20EDUCATION%20INSTITUTE%20LOGO.jpg)
+
+📓 Education
+
+Diploma in Business and Information Management
+
+Foundation Studies
+
+https://github.com/wayneyong/CV-Resume/blob/4df80b5eac7d42473e0b9113d8718834cee58268/KAPLAN%20-%20DIPBIM.pdf
 
 # Metropolitan School of Business and Management, UK
 
