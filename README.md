@@ -74,16 +74,6 @@ Foundation Studies
 
 https://github.com/wayneyong/CV-Resume/blob/4df80b5eac7d42473e0b9113d8718834cee58268/KAPLAN%20-%20DIPBIM.pdf
 
-# Metropolitan School of Business and Management, UK
-
-![MSBM UK](https://github.com/wayneyong/CV-Resume/blob/afbaeb1d24768d3f9b039e4c6f14149fb920bb14/MSBM%20UK%20LOGO.jpg)
-
-🏅 Professional Certification
-
-Professional Certificate in Management Information Systems
-
-https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/MSBM%20-%20PCMIS.pdf
-
 # Microsoft
 
 ![Microsoft](https://github.com/wayneyong/CV-Resume/blob/afbaeb1d24768d3f9b039e4c6f14149fb920bb14/MICROSOFT%20LOGO.png)
