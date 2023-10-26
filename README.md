@@ -18,7 +18,7 @@ Updated on 23 May 2023
 
 Postgraduate Diploma in Business Analytics
 
-https://github.com/wayneyong/CV-Resume/blob/2fae627d233ff6e75cb7ce484eb9893224299985/CIQ%20UK%20-%20PGDBA.pdf
+https://github.com/wayneyong/CV-Resume/blob/63ba4cb451537adfb4a82090e4ea7770eb9d7018/CIQ%20UK%20-%20PGDIPBA.pdf
 
 # Singapore Management University
 # SMU Academy
