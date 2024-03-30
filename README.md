@@ -42,6 +42,16 @@ Professional Certificate in Digital Marketing
 https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/SMUA%20-%20PCDM.pdf
 
 # National University of Singapore
+# Advanced Computing for Executives, NUS School of Computing
+
+![NUS School of Computing](https://github.com/wayneyong/CV-Resume/blob/afbaeb1d24768d3f9b039e4c6f14149fb920bb14/NUS%20BUSINESS%20SCHOOL%20LOGO.jpg)
+
+🏅 Professional Certification
+
+Professional Certificate in Accounting and Finance
+
+https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/NUSBIZ%20-%20PCAF.pdf
+
 # NUS Business School 
 
 ![NUS Business School](https://github.com/wayneyong/CV-Resume/blob/afbaeb1d24768d3f9b039e4c6f14149fb920bb14/NUS%20BUSINESS%20SCHOOL%20LOGO.jpg)
