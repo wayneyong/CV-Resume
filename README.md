@@ -44,11 +44,9 @@ https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fd
 # National University of Singapore
 # Advanced Computing for Executives, NUS School of Computing
 
-![NUS School of Computing](https://github.com/wayneyong/CV-Resume/blob/afbaeb1d24768d3f9b039e4c6f14149fb920bb14/NUS%20BUSINESS%20SCHOOL%20LOGO.jpg)
+![NUS School of Computing](https://github.com/wayneyong/CV-Resume/blob/Images/NUS%20ADVANCED%20COMPUTING%20FOR%20EXECUTIVES%20LOGO.png?raw=true)
 
-🏅 Professional Certification
-
-Professional Certificate in Accounting and Finance
+🏅 Digital Transformation
 
 https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/NUSBIZ%20-%20PCAF.pdf
 
