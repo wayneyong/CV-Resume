@@ -94,23 +94,25 @@ https://github.com/wayneyong/CV-Resume/blob/4df80b5eac7d42473e0b9113d8718834cee5
 
 MS-900 Microsoft 365 Fundamentals: Describe Microsoft 365 security and compliance capabilities
 
-https://github.com/wayneyong/CV-Resume/
+https://github.com/wayneyong/CV-Resume/blob/c200af0a3f51a49d1722e9792ad3887d4f88dc55/MS-900.PDF
 
-Windows Server 2019: Windows Server Network Infrastructure
+MD-100 and MD-101:
 
-https://github.com/wayneyong/CV-Resume/blob/0276e2151c8fd68a0a30670d24b574bd5cfc1b13/WINSERVER-2019.pdf
+| Install the Windows Client
 
-AZ-800: Implement and operate an on-premises and hybrid networking infrastructure
+| Configure networking on Windows clients
 
-https://github.com/wayneyong/CV-Resume/blob/0276e2151c8fd68a0a30670d24b574bd5cfc1b13/AZ-800.pdf
+| Troubleshoot hardware and drivers 
 
-MD-100 and MD-101: Configure networking on Windows clients, Troubleshoot hardware and drivers, Configure user and device profiles
+| Configure user and device profiles
 
-https://github.com/wayneyong/CV-Resume/blob/0276e2151c8fd68a0a30670d24b574bd5cfc1b13/MD-100_1.pdf
+https://github.com/wayneyong/CV-Resume/blob/c200af0a3f51a49d1722e9792ad3887d4f88dc55/MD-100_1.PDF
 
-https://github.com/wayneyong/CV-Resume/blob/0276e2151c8fd68a0a30670d24b574bd5cfc1b13/MD-100_2.pdf
+https://github.com/wayneyong/CV-Resume/blob/c200af0a3f51a49d1722e9792ad3887d4f88dc55/MD-100_2.PDF
 
-https://github.com/wayneyong/CV-Resume/blob/0276e2151c8fd68a0a30670d24b574bd5cfc1b13/MD-101_1.pdf
+https://github.com/wayneyong/CV-Resume/blob/c200af0a3f51a49d1722e9792ad3887d4f88dc55/MD-100_3.PDF
+
+https://github.com/wayneyong/CV-Resume/blob/c200af0a3f51a49d1722e9792ad3887d4f88dc55/MD-101.PDF
 
 70-741: Networking with Windows Server 2016
 
