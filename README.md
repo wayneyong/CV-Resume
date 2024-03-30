@@ -49,6 +49,7 @@ https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fd
 🏅 Advanced Professional Certification
 
 Expected completion date: July 2024
+
 Advanced Professional Certificate in Digital Transformation
 
 # NUS Business School 
