@@ -52,6 +52,8 @@ Expected completion date: July 2024
 
 Digital Transformation
 
+https://github.com/wayneyong/CV-Resume/
+
 # NUS Business School 
 
 ![NUS Business School](https://github.com/wayneyong/CV-Resume/blob/afbaeb1d24768d3f9b039e4c6f14149fb920bb14/NUS%20BUSINESS%20SCHOOL%20LOGO.jpg)
@@ -89,6 +91,10 @@ https://github.com/wayneyong/CV-Resume/blob/4df80b5eac7d42473e0b9113d8718834cee5
 ![Microsoft](https://github.com/wayneyong/CV-Resume/blob/afbaeb1d24768d3f9b039e4c6f14149fb920bb14/MICROSOFT%20LOGO.png)
 
 🏅 Professional Certification
+
+MS-900 Microsoft 365 Fundamentals: Describe Microsoft 365 security and compliance capabilities
+
+https://github.com/wayneyong/CV-Resume/
 
 Windows Server 2019: Windows Server Network Infrastructure
 
