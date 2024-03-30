@@ -46,11 +46,11 @@ https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fd
 
 ![NUS School of Computing](https://github.com/wayneyong/CV-Resume/blob/Images/NUS%20ADVANCED%20COMPUTING%20FOR%20EXECUTIVES%20LOGO.png?raw=true)
 
-Expected completion date: July 2024
-
 🏅 Advanced Professional Certification
 
-Digital Transformation
+(Expected completion date: July 2024)
+
+Advanced Professional Certificate in Digital Transformation
 
 https://github.com/wayneyong/CV-Resume/
 
