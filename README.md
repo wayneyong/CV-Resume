@@ -42,13 +42,14 @@ Professional Certificate in Digital Marketing
 https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/SMUA%20-%20PCDM.pdf
 
 # National University of Singapore
-# Advanced Computing for Executives, NUS School of Computing
+# NUS Advanced Computing for Executives | School of Computing
 
 ![NUS School of Computing](https://github.com/wayneyong/CV-Resume/blob/Images/NUS%20ADVANCED%20COMPUTING%20FOR%20EXECUTIVES%20LOGO.png?raw=true)
 
-🏅 Digital Transformation
+🏅 Advanced Professional Certification
 
-https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/NUSBIZ%20-%20PCAF.pdf
+Expected completion date: July 2024
+Advanced Professional Certificate in Digital Transformation
 
 # NUS Business School 
 
