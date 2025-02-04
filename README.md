@@ -27,15 +27,24 @@ https://github.com/wayneyong/CV-Resume/blob/63ba4cb451537adfb4a82090e4ea7770eb9d
 
 📓 Education
 
+Graduate Certificate, 
+Strategic Digital Transformation in Finance
+In Progress (Expected completion: July 2025)
+
+and
+
+Certificate, 
+Information Technology Risk Governance and Security (IBF Level 1)
+
+https://github.com/wayneyong/CV-Resume/blob/9a46cc155d3c13f5a122639c1824e0fd05affcda/SMUA%20-%20CITRGS.pdf
+
+* This certificate is one of the modules in the Graduate Certificate, Strategic Digital Transformation in Finance
+
 Advanced Diploma in Data Analytics and Machine Learning
 
 https://github.com/wayneyong/CV-Resume/blob/4df80b5eac7d42473e0b9113d8718834cee58268/SMUA%20-%20ADDAML.pdf
 
 🏅 Professional Certification
-
-Certification, Information Technology Risk Governance and Security (IBF Level 1)
-
-https://github.com/wayneyong/CV-Resume/blob/9a46cc155d3c13f5a122639c1824e0fd05affcda/SMUA%20-%20CITRGS.pdf
 
 Professional Certificate in Digital Marketing
 
@@ -46,11 +55,9 @@ https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fd
 
 ![NUS School of Computing](https://github.com/wayneyong/CV-Resume/blob/Images/NUS%20ADVANCED%20COMPUTING%20FOR%20EXECUTIVES%20LOGO.png?raw=true)
 
-🏅 Advanced Professional Certification
+🏅 Professional Certification
 
-(Expected completion date: July 2024)
-
-Advanced Professional Certificate in Digital Transformation
+Professional Certificate in Digital Transformation - Digital Tech and Operations
 
 https://github.com/wayneyong/CV-Resume/
 
