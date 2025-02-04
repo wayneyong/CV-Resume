@@ -27,14 +27,12 @@ https://github.com/wayneyong/CV-Resume/blob/63ba4cb451537adfb4a82090e4ea7770eb9d
 
 📓 Education
 
-Graduate Certificate, 
-Strategic Digital Transformation in Finance
+Graduate Certificate in Strategic Digital Transformation in Finance
 In Progress (Expected completion: July 2025)
 
 and
 
-Certificate, 
-Information Technology Risk Governance and Security (IBF Level 1)
+Certificate in Information Technology Risk Governance and Security
 
 https://github.com/wayneyong/CV-Resume/blob/9a46cc155d3c13f5a122639c1824e0fd05affcda/SMUA%20-%20CITRGS.pdf
 
@@ -58,8 +56,6 @@ https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fd
 🏅 Professional Certification
 
 Professional Certificate in Digital Transformation - Digital Tech and Operations
-
-https://github.com/wayneyong/CV-Resume/
 
 # NUS Business School 
 
