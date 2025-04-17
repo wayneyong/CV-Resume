@@ -10,8 +10,6 @@ Updated on 23 May 2023
 
 # 🎓 EDUCATION & PROFESSIONAL CERTIFICATIONS
 
-📓 Education
-
 # Singapore Management University
 # SMU Academy
 
