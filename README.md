@@ -29,6 +29,8 @@ Graduate Certificate Module 5: IT Risk Governance and Security Essentials - Stra
 
 Certificate in IT Risk Governance and Security (IBF Level 1)
 
+https://github.com/wayneyong/CV-Resume/blob/3b72c4bc02362e7f7dcb2e37b8f229dd96ab5310/SMUA%20-%20GCSDTF.pdf
+
 https://github.com/wayneyong/CV-Resume/blob/9a46cc155d3c13f5a122639c1824e0fd05affcda/SMUA%20-%20CITRGS.pdf
 
 Professional Certificate in Digital Marketing
