@@ -10,15 +10,7 @@ Updated on 23 May 2023
 
 # 🎓 EDUCATION & PROFESSIONAL CERTIFICATIONS
 
-# Cambridge International Qualifications, UK
-
-![Cambridge International Qualifications](https://github.com/wayneyong/CV-Resume/blob/afbaeb1d24768d3f9b039e4c6f14149fb920bb14/CIQ%20LOGO.jpg)
-
 📓 Education
-
-Postgraduate Diploma in Business Analytics
-
-https://github.com/wayneyong/CV-Resume/blob/63ba4cb451537adfb4a82090e4ea7770eb9d7018/CIQ%20UK%20-%20PGDIPBA.pdf
 
 # Singapore Management University
 # SMU Academy
@@ -27,22 +19,17 @@ https://github.com/wayneyong/CV-Resume/blob/63ba4cb451537adfb4a82090e4ea7770eb9d
 
 📓 Education
 
-Graduate Certificate in Strategic Digital Transformation in Finance
-In Progress (Expected completion: July 2025)
-
-and
-
-Certificate in Information Technology Risk Governance and Security
-
-https://github.com/wayneyong/CV-Resume/blob/9a46cc155d3c13f5a122639c1824e0fd05affcda/SMUA%20-%20CITRGS.pdf
-
-* This certificate is one of the modules in the Graduate Certificate, Strategic Digital Transformation in Finance
-
 Advanced Diploma in Data Analytics and Machine Learning
 
 https://github.com/wayneyong/CV-Resume/blob/4df80b5eac7d42473e0b9113d8718834cee58268/SMUA%20-%20ADDAML.pdf
 
 🏅 Professional Certification
+
+Graduate Certificate Module 5: IT Risk Governance and Security Essentials - Strategic Digital Transformation in Finance
+
+Certificate in IT Risk Governance and Security (IBF Level 1)
+
+https://github.com/wayneyong/CV-Resume/blob/9a46cc155d3c13f5a122639c1824e0fd05affcda/SMUA%20-%20CITRGS.pdf
 
 Professional Certificate in Digital Marketing
 
@@ -73,7 +60,7 @@ https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fd
 
 🏅 Professional Certification
 
-ITIL v3 Foundation in IT Service Management
+ITIL v3 Foundation in IT Service Management - NICF
 
 https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/NUSISS%20-%20ITIL-V3.pdf
 
@@ -99,25 +86,7 @@ MS-900 Microsoft 365 Fundamentals: Describe Microsoft 365 security and complianc
 
 https://github.com/wayneyong/CV-Resume/blob/c200af0a3f51a49d1722e9792ad3887d4f88dc55/MS-900.PDF
 
-MD-100 and MD-101:
-
-| Install the Windows Client
-
-| Configure networking on Windows clients
-
-| Troubleshoot hardware and drivers 
-
-| Configure user and device profiles
-
-https://github.com/wayneyong/CV-Resume/blob/c200af0a3f51a49d1722e9792ad3887d4f88dc55/MD-100_1.PDF
-
-https://github.com/wayneyong/CV-Resume/blob/c200af0a3f51a49d1722e9792ad3887d4f88dc55/MD-100_2.PDF
-
-https://github.com/wayneyong/CV-Resume/blob/c200af0a3f51a49d1722e9792ad3887d4f88dc55/MD-100_3.PDF
-
-https://github.com/wayneyong/CV-Resume/blob/c200af0a3f51a49d1722e9792ad3887d4f88dc55/MD-101.PDF
-
-70-741: Networking with Windows Server 2016
+70-741: Networking with Windows Server 2016 - NICF
 
 https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fdd439/MS%20-%2070-741.pdf
 
