@@ -44,6 +44,8 @@ https://github.com/wayneyong/CV-Resume/blob/5a9644ebe52837b180e46222c232603620fd
 
 Professional Certificate in Digital Transformation - Digital Tech and Operations
 
+https://github.com/wayneyong/CV-Resume/blob/3b72c4bc02362e7f7dcb2e37b8f229dd96ab5310/NUSSOC%20-%20PCDT_DTO.pdf
+
 # NUS Business School 
 
 ![NUS Business School](https://github.com/wayneyong/CV-Resume/blob/afbaeb1d24768d3f9b039e4c6f14149fb920bb14/NUS%20BUSINESS%20SCHOOL%20LOGO.jpg)
